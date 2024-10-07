@@ -5,7 +5,7 @@
     <p>Isi Ini adalah tulisan yang berada dalam paragraf.
         Dengan tag ini maka tampilan dalam web akan menjadi
         lebih rapi paragraf</p>
-    <hr>
-    <br>
-    
-    ![Screenshot 2024-10-07 093115](https://github.com/user-attachments/assets/f1d516a8-37cb-4c58-bc27-a50e5e37f6ac)
+
+        ![image](https://github.com/user-attachments/assets/6b73dce0-07e1-4fc0-ba44-7f18c6debd2b)
+      
+
